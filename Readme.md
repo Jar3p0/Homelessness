@@ -32,7 +32,7 @@ In conclusion, there are several homelessness epidemics across America that are 
 
 
 Data gathered from
-www.hudexchange.info
-CDC.gov
-Census.gov
-Basemaps for all maps is the ESRI Gray from Quickmaps Services
+- www.hudexchange.info
+- CDC.gov
+- Census.gov
+- Basemaps for all maps is the ESRI Gray from Quickmaps Services
