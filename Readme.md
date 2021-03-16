@@ -22,7 +22,9 @@ Comparing this map to the Homeless populations mapped earlier, we see the two ar
 ![AidCoeffAvg](/FinalProject/Images/AidCoeffAvg.png)
 Here we start to see where the most help for homelessness is needed in the US. While \$5,000 might seem like a lot, we must remember that this is per year, and comes out to a mere \$13.69 per day per homeless indvidual. Meanwhile, in states like Louisiana they are able to spend \$95.89 per day per homeless indvidual. Even though hundreds of millions of dollars are being poured into areas like California and Washington, they are still far less equiped to handle homelessness than their counterparts in the bible belt and mideast.
 Another importat statistic to look at is whether the rate of homelessness is increasing or decreasing.
+
 ![_diff](/FinalProject/Images/_diff.png)
+
 As we see with this map, the States that are needing funding the most are also some of the only states that are not seeing their homelessness decrease from 2015-2018.
 
 In conclusion, there are several homelessness epidemics across America that are happening right now, and even the billions of dollars that are being spent on the problem are not enough to satisfy the needs of the issue. The areas that need the most help are also the areas that are recieving the most funding, but the rate simply must be increased. \$13 a day is simply not livable, and many of the issues will continue to snowball without reinforcement.
