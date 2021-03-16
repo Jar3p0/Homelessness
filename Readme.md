@@ -15,7 +15,7 @@ By analysing this data, I hope to provide insight as to where Americans are most
 To start, I have simply mapped homelessness in America by state.
 ![Homelessness2018raw](/FinalProject/Images/2018_Homeless_.png)
 To get rid of the population bais, I then got the percentage of the state's population that was homeless.
-![Homesless2018%](/FinalProject/Images/2018_Homeless%.png)
+![Homesless2018per](FinalProject/Images/2018_Homeless%.png)
 Looking at this map, we can see that many of the states that are suffering the most from homelessness lie on the upper east coast and along the west coast. Now lets take a look at which states have recieved the most aid towards fighting homelessness.
 ![Aid2018](/FinalProject/Images/2018Aid.png)
 Comparing this map to the Homeless populations mapped earlier, we see the two are extremely similar. The maps seem to be based more on population than anything else. In order to track where we are focusing our homelessness relief efforts, we might need to track something other than just the raw amount of aid given. Lets try mapping the avaliable aid for each homeless person in each state. To improve our analysis, we will look at a larger time period.
